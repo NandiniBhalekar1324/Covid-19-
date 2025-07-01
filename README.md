@@ -1,1 +1,1 @@
-![Dashboard Preview](DaskboardPreview.png)
+![Dashboard Preview](DashboardPreview.png)
